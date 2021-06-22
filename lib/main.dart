@@ -121,7 +121,7 @@ class _HomeState extends State<Home> {
                       ),
                     ),
                     SizedBox(
-                      width: 10,
+                      width: 12,
                     ),
                     Expanded(
                         child: DropdownButton<String>(
@@ -158,7 +158,7 @@ class _HomeState extends State<Home> {
                   ],
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 22,
                 ),
                 AnimatedContainer(
                   duration: Duration(seconds: 2),
